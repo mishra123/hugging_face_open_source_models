@@ -31,6 +31,9 @@ This work is based on the [Open Source Models with Hugging Face](https://learn.d
 - ✅ Audio Classification
 - ✅ Conversational AI
 - ✅ Token Classification (`ner`)
+- ✅ Multimodal Inference:
+  - 🖼📃 Image Captioning (BLIP)
+  - 🔍 Image-Text Similarity & Retrieval (CLIP)
 
 ---
 
@@ -42,16 +45,22 @@ cd hugging_face_open_source_models
 ```
 ---
 
-## 📘 Example Usage
+## 📘 Set up virtual environment
 
-... *(same as before)* ...
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 ---
 
 ## 📄 Requirements
 
-... *(same as before)* ...
-
+```
+jupyter lab
+```
 ---
 
 ## 🌍 Resources
@@ -62,4 +71,6 @@ cd hugging_face_open_source_models
 
 ---
 
-##
+## 👨‍💻 Author
+
+Anoop Mishra — https://github.com/mishra123
