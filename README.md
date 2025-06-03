@@ -1,15 +1,25 @@
 # 🤗 Hugging Face Open Source Models
 
-This repository provides examples, utilities, and notebooks to experiment with a variety of open-source models hosted on [Hugging Face](https://huggingface.co/models), including tasks like text generation, summarization, image segmentation, audio classification, and more.
+This repository includes practice code and examples from the [Open Source Models with Hugging Face](https://learn.deeplearning.ai/courses/open-source-models-hugging-face) course by DeepLearning.AI. It demonstrates hands-on usage of state-of-the-art models for tasks like text generation, summarization, audio classification, image segmentation, and more.
 
 ---
 
 ## 📦 Contents
 
-- `notebooks/` — Interactive Jupyter Notebooks showcasing different tasks
-- `scripts/` — Python scripts for automating model inference
-- `data/` — Sample data for testing models
-- `README.md` — This file
+- `notebooks/` — Jupyter Notebooks with exercises from the course
+- `scripts/` — Supporting Python scripts
+- `README.md` — Project overview
+
+---
+
+## 🎓 Based On
+
+This work is based on the [Open Source Models with Hugging Face](https://learn.deeplearning.ai/courses/open-source-models-hugging-face) course by DeepLearning.AI. The course covers:
+
+- 🤖 Transformers and model pipelines
+- 📝 Text summarization, translation, and generation
+- 🎧 Zero-shot audio classification
+- 🧠 Inference and model optimization
 
 ---
 
@@ -18,17 +28,38 @@ This repository provides examples, utilities, and notebooks to experiment with a
 - ✅ Text Generation (`text-generation`)
 - ✅ Summarization (`summarization`)
 - ✅ Zero-shot Classification (`zero-shot-classification`)
-- ✅ Image Segmentation (e.g. SAM models)
 - ✅ Audio Classification
-- ✅ Conversational AI (`conversational`, `chat`)
+- ✅ Conversational AI
 - ✅ Token Classification (`ner`)
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
 ```bash
 git clone https://github.com/your-username/hugging_face_open_source_models.git
 cd hugging_face_open_source_models
+```
+---
+
+## 📘 Example Usage
+
+... *(same as before)* ...
+
+---
+
+## 📄 Requirements
+
+... *(same as before)* ...
+
+---
+
+## 🌍 Resources
+
+- [Course on DeepLearning.AI](https://learn.deeplearning.ai/courses/open-source-models-hugging-face)
+- [Hugging Face Models Hub](https://huggingface.co/models)
+- [Transformers Docs](https://huggingface.co/docs/transformers/index)
+
+---
+
+##
