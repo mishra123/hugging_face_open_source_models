@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+.idea/
+
+# Gradio files
+.gradio/
+# PyTorch model files
+*.pt
+# TensorFlow model files
+*.h5
+
+#Hugging Face cache
+.cache/
+.huggingface/
